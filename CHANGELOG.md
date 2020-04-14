@@ -1,5 +1,25 @@
 # Changelog
 
+## v1.1.0 (2020-04-14)
+
+### Changes
+
+#### Upgrade
+
+* Change references from teecke to tpbtools ([f8ad201](https://github.com/tpbtools/gp-nginx/commit/f8ad201))
+
+#### Build
+
+* Update Auto Release Log adding v1.1.0 info with JPL ([6e7bbf9](https://github.com/tpbtools/gp-nginx/commit/6e7bbf9))
+
+#### Docs
+
+* Generate v1.0.0 changelog with JPL ([42240d5](https://github.com/tpbtools/gp-nginx/commit/42240d5))
+
+### Authors
+
+* Pedro Amador
+
 ## v1.0.0 (2020-04-14)
 
 ### Changes
