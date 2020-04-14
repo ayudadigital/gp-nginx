@@ -2,7 +2,7 @@ version: '3.7'
 
 services:
   statics:
-    image: teecke/gp-nginx:0.2.3
+    image: tpbtools/gp-nginx:1.1.0
     build: statics
     ports:
       - 8090:80
