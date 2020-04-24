@@ -1,4 +1,4 @@
-FROM nginx:1.17.9-alpine
+FROM nginx:1.17.10-alpine
 
 # Install packages
 RUN apk add --no-cache rsync
