@@ -1,5 +1,22 @@
 # Changelog
 
+## v2.0.2 (2021-03-28)
+
+### Changes
+
+#### Build
+
+* Update Auto Release Log adding v2.0.2 info with JPL ([2f6f38a](https://github.com/ayudadigital/gp-nginx/commit/2f6f38a))
+* Use jpl v6.2.0 ([d255259](https://github.com/ayudadigital/gp-nginx/commit/d255259))
+
+#### Docs
+
+* Generate v2.0.1 changelog with JPL ([aa294e7](https://github.com/ayudadigital/gp-nginx/commit/aa294e7))
+
+### Authors
+
+* Pedro Amador
+
 ## v2.0.1 (2021-03-28)
 
 ### Changes
